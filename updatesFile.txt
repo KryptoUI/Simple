@@ -1,0 +1,22 @@
+;aiu;
+
+[General]
+MessageTitle = Update Ready
+MessageBody = Notification Message
+MessageExpirationDate = 10/01/2024
+
+[Update]
+Name = Simple 10
+ProductVersion = 1.0.0.1
+URL = https://github.com/KryptoUI/simple101/raw/master/Simple10%20V1.0.0.1.exe
+Size = 90658606
+SHA256 = 5D32F4265F36CD8F93CD03A4B3516B71CE407CCDDADAB65F2ED3F06037D777AE
+MD5 = 06bd61f6f60a7c9b1976235e81818d84
+ServerFileName = Simple10 V1.0.0.1.exe
+Flags = Sys64
+RegistryKey = HKUD\Software\Simple10 - Krypto\Simple 10\Version
+Version = 1.0.0.1
+Description = TEst
+Feature = test
+Enhancement = ts
+BugFix = ts
