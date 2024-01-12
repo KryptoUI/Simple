@@ -3,10 +3,10 @@
 [Update]
 Name = Simple 10
 ProductVersion = 1.0.1.0
-URL = http://www.example.com/downloads/Simple 10 V1.0.1.exe
+URL = https://github.com/KryptoUI/Simple/raw/master/Simple%2010%20V1.0.1.exe
 Size = 93129687
-SHA256 = C3EF0A2601B4FC152D1FE4FF1647489136B9DB89B79224DCE2066C0CAFEA5023
-MD5 = fe65cac87233ffd67196fe13c3f8454e
+SHA256 = CD5DBAA7BF209CB86BF686C13DBC2F10986F38C180ECD9499AFCE1629992FF12
+MD5 = 24c292b18d696932e26a077e36a62948
 ServerFileName = Simple 10 V1.0.1.exe
 RegistryKey = HKUD\Software\Simple 10 - Krypto\Simple 10\Version
 Version = 1.0.1.0
