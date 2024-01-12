@@ -1,7 +1,7 @@
 ;aiu;
 
 [Update]
-Name = Simple 10
+Name = Simple 10 Updater
 ProductVersion = 1.0.1.0
 URL = https://raw.githubusercontent.com/KryptoUI/Simple/master/Simple%2010%20V1.0.1.exe
 Size = 93129027
