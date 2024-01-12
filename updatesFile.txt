@@ -1,17 +1,12 @@
 ;aiu;
 
 [Update]
-Name = Simple 10 Updater
+Name = Simple 10
 ProductVersion = 1.0.1.0
-URL = https://raw.githubusercontent.com/KryptoUI/Simple/master/Simple%2010%20V1.0.0.exe
-Size = 93129028
-SHA256 = F13B26CB94A77E0C058C3F89E32820352DE3B7B142BF6F2C970ED8F3694602E8
-MD5 = f75e94fce4df1506c36f53d3f1ad7271
+URL = http://www.example.com/downloads/Simple 10 V1.0.1.exe
+Size = 93129687
+SHA256 = C3EF0A2601B4FC152D1FE4FF1647489136B9DB89B79224DCE2066C0CAFEA5023
+MD5 = fe65cac87233ffd67196fe13c3f8454e
 ServerFileName = Simple 10 V1.0.1.exe
-Flags = Sys64
 RegistryKey = HKUD\Software\Simple 10 - Krypto\Simple 10\Version
 Version = 1.0.1.0
-Description = Initial Updater Release V1.0.1
-Feature = Added Installer
-Enhancement = None
-BugFix = None
