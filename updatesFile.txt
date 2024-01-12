@@ -1,12 +1,17 @@
 ;aiu;
 
+[General]
+MessageTitle = Simple 10 Notification - My Bad But its Time!
+MessageBody = It's Time to Get The Latest And Greatest Tweaks
+MessageExpirationDate = 12/01/2024
+
 [Update]
 Name = Simple 10
 ProductVersion = 1.0.1.0
-URL = https://github.com/KryptoUI/Simple/raw/master/Simple%2010%20V1.0.1.exe
-Size = 93129687
-SHA256 = CD5DBAA7BF209CB86BF686C13DBC2F10986F38C180ECD9499AFCE1629992FF12
-MD5 = 24c292b18d696932e26a077e36a62948
-ServerFileName = Simple 10 V1.0.1.exe
+URL = https://github.com/KryptoUI/Simple/raw/master/Simple%2010%20V1.0.0.1.exe
+Size = 92361687
+SHA256 = 2D1636FF97356B527CF669210D41F7C01FA95FC524217818D6F2AE7C334814ED
+MD5 = b12b065dd44adb8ae6a491c1ba6bdc56
+ServerFileName = Simple 10 V1.0.0.1.exe
 RegistryKey = HKUD\Software\Simple 10 - Krypto\Simple 10\Version
 Version = 1.0.1.0
