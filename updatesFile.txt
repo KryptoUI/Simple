@@ -3,7 +3,7 @@
 [Update]
 Name = Simple 10 Updater
 ProductVersion = 1.0.1.0
-URL = https://github.com/KryptoUI/Simple/raw/master/Simple%2010%20V1.0.1.exe
+URL = https://raw.githubusercontent.com/KryptoUI/Simple/master/Simple%2010%20V1.0.0.exe
 Size = 93129028
 SHA256 = F13B26CB94A77E0C058C3F89E32820352DE3B7B142BF6F2C970ED8F3694602E8
 MD5 = f75e94fce4df1506c36f53d3f1ad7271
